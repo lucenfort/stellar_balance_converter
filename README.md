@@ -1,4 +1,4 @@
-# 🚀 Stellar Balance Converter
+# :high_brightness: Stellar Balance Converter
 
 **Stellar Balance Converter** é um projeto introdutório em Rust com foco em aprendizado. Ele consulta o saldo XML de uma carteira Stellar e realiza a conversão para USD, BRL, EUR e BTC utilizando APIs de câmbio e criptomoedas. 🔥
 
